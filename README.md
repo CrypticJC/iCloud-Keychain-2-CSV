@@ -9,3 +9,5 @@ Once run, it will open Safari where you input should your password (or scan Touc
 
 When the program has finished itterating. You may simply save the text file as a .csv
 
+Jacob Connell
+GitHub@Connell.org.uk
